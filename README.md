@@ -1,4 +1,4 @@
-# ★彡 Peterparker 彡★
+# Peterparker
 
 - 👋 Hi, I’m @PeterParkerspide
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me ...
 
-<!---
+
 
 ★彡 Peterparker 彡★/★彡 Peterparker 彡★ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
