@@ -1,9 +1,9 @@
 # Peterparker
 
-[![Deploy](https://telegra.ph/file/5f93b03f6050037f109d9.jpg)](https://telegra.ph/file/5f93b03f6050037f109d9.jpg)
+[![Deploy](https://telegra.ph/file/5f93b03f6050037f109d9.jpg)](https://t.me/PeterParkerspide)
 
 
-<h3 align="center">ℂ𝕆ℕ𝕋𝔸ℂ𝕋<img align="center" src="https://t.me/PeterParkerspide/blob/main/assets/Handshake.gif" height="33px" /></h3>
+<h3 align="center">Contact me<img align="center" src="https://t.me/PeterParkerspide/blob/main/assets/Handshake.gif" height="33px" /></h3>
 <p align="center">
 <a href="https://t.me/PeterParkerspide"><img alt="Telegram" src="https://img.shields.io/badge/𝙳𝙴𝚅 1-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://t.me/PeterParker3_bot"><img alt="Telegram" src="https://img.shields.io/badge/『ＬＯＫＩ』-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
