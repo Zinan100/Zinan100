@@ -1,5 +1,8 @@
 # Peterparker
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%238038D5&size=35&duration=4000&center=true&vCenter=true&width=250&height=40&lines=HEY+I'M+peͥτeͣrͫp𝖆rҜer ×͜×)](https://git.io/typing-svg) &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+
+
 [![Deploy](https://telegra.ph/file/5f93b03f6050037f109d9.jpg)](https://t.me/PeterParkerspide)
 
 
