@@ -9,4 +9,4 @@
 <a href="https://t.me/PeterParkerspide"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram"></a>
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LolanBot18&show_icons=true&theme=midnight-purple" alt="LolanBot18" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=peterparker088&show_icons=true&theme=midnight-purple" alt="peterparker088" /></p>
