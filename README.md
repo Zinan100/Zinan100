@@ -14,4 +14,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=peterparker088&show_icons=true&theme=midnight-purple" alt="peterparker088" /></p>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> </a>
+    
 
