@@ -12,4 +12,13 @@
 <p align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=peterparker088&show_icons=true&theme=midnight-purple" alt="peterparker088" /></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterparker088&layout=compact&theme=tokyonight" align="center">
+
+<hr></hr>  
+    
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
+
+
+
+</div>
+
   
