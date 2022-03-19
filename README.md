@@ -11,10 +11,6 @@
 
 <p align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=peterparker088&show_icons=true&theme=midnight-purple" alt="peterparker088" /></p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=200920082007&theme=highcontrast" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=200920082007&theme=tokyonight" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=200920082007&layout=compact&theme=tokyonight" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=200920082007&layout=compact&theme=tokyonight" align="center">
   
 
