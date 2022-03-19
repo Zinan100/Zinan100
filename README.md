@@ -11,9 +11,5 @@
 <p align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=peterparker088&show_icons=true&theme=midnight-purple" alt="peterparker088" /></p>
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
 
-
-<p align="center">
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Joelkb&custom_title=Contribution+Graph&theme=xcode" />
-<img src="https://github-readme-stats.vercel.app/api?username=200920082007&hide=prs,issues&show_icons=true&title_color=3E4405F&text_color=3E4405F&icon_color=3E4405F&bg_color=3E4405F" alt="SVR's github stats" />
-</p>0⁰
