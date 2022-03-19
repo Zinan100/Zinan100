@@ -10,4 +10,10 @@
 
 <p align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=peterparker088&show_icons=true&theme=midnight-purple" alt="peterparker088" /></p>
-https://camo.githubusercontent.com/29a53b14a501707e7056e2d83be4726dc9a5c8930b85db1f19899a768261fa5c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d323030393230303832303037266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874
+
+
+
+<p align="center">
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Joelkb&custom_title=Contribution+Graph&theme=xcode" />
+<img src="https://github-readme-stats.vercel.app/api?username=200920082007&hide=prs,issues&show_icons=true&title_color=3E4405F&text_color=3E4405F&icon_color=3E4405F&bg_color=3E4405F" alt="SVR's github stats" />
+</p>0⁰
