@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%238038D5&size=35&duration=4000&center=true&vCenter=true&width=250&height=40&lines=ZINAN)](https://git.io/typing-svg) &nbsp;&nbsp;
 
 
-[![Deploy](https://telegra.ph/file/5f93b03f6050037f109d9.jpg)](https://t.me/zinan00100_1bot)
+[![Deploy](https://telegra.ph/file/8a835209ad2a0e767eb79.jpg)](https://t.me/zinan00100_1bot)
 
 
 <h3 align="center">Contact me<img align="center" <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
