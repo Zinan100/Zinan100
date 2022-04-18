@@ -10,7 +10,7 @@
 
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zinan100show_icons=true&theme=midnight-purple" alt="Zinan100"/></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zinan100&&show_icons=true&theme=midnight-purple" alt="Zinan100"/></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zinan100&layout=compact&theme=tokyonight" align="center">
 
 <hr></hr>  
