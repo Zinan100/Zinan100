@@ -5,7 +5,7 @@
 
 <div align="center">
 <br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Aadhi000}/count.svg"/></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Zinan100}/count.svg"/></p> 
 
 <h3 align="center">Contact me<img align="center" <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 <p align="center">
