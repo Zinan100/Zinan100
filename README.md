@@ -1,6 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%238038D5&size=35&duration=4000&center=true&vCenter=true&width=250&height=80&lines=Hlo everyone+I am+ Muhammed Zinan+ from kannur kerala+I know 15%+ pyrogramming)](https://git.io/typing-svg) &nbsp;&nbsp;
-
-
 [![Deploy](https://telegra.ph/file/8a835209ad2a0e767eb79.jpg)](https://t.me/zinan00100_1bot)
 
 <div align="center">
